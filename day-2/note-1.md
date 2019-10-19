@@ -2,6 +2,7 @@
 上一章节我们已经掌握了webpack常见的所有配置
 
 这一节我们来看看如何实现webpack中的优化，我们先来编写最基本的webpack配置，然后依次实现各种优化！哈哈哈哈
+牛逼啊
 
 ```javascript
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
